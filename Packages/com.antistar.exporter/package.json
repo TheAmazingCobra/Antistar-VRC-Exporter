@@ -1,0 +1,17 @@
+{
+  "name": "com.antistar.exporter",
+  "displayName": "Antistar.Exporter",
+  "version": "1.0.1",
+  "unity": "2022.3",
+  "description": "Internal tool for the Antistar team. Exports every pack in Antistar Store as a ready-to-ship .unitypackage, with the support window included.",
+  "author": {
+    "name": "Antistar",
+    "url": "https://antistar.gg"
+  },
+  "vpmDependencies": {
+    "com.antistar.tooltip": ">=1.0.0"
+  },
+  "legacyFiles": {
+    "Assets\\Antistar Store\\Tooltip\\Editor\\AntistarExporter.cs": "ece1381927f027f419fd9c4209248d32"
+  }
+}
